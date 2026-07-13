@@ -46,17 +46,6 @@ While building this project, I learned:
 
 Every project teaches me something new, and this one helped me understand how user interaction works in Flutter.
 
----
-
-## 📂 Project Structure
-
-```text
-lib/
-├── screens/
-├── widgets/
-├── utils/
-└── main.dart
-```
 
 ---
 
