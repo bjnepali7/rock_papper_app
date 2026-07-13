@@ -16,7 +16,6 @@ The app lets the player choose **Rock**, **Paper**, or **Scissors**, then compar
 
 ## ✨ Features
 
-- 🎮 Play against the computer
 - 🤖 Random computer choice
 - ✋ Rock, Paper, and Scissors selection
 - 🏆 Win, Lose, or Draw result
